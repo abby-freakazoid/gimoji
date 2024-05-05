@@ -554,14 +554,6 @@
       "semver": null
     },
     {
-      "emoji": "🧑‍💻",
-      "entity": "&#129489;&#8205;&#128187;",
-      "code": ":technologist:",
-      "description": "Improve developer experience.",
-      "name": "technologist",
-      "semver": null
-    },
-    {
       "emoji": "💸",
       "entity": "&#x1F4B8;",
       "code": ":money_with_wings:",
